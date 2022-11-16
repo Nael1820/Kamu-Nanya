@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "red_cheer left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "red_cheer down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "red_cheer up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "red_cheer right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "red_cheer idle0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Ghost_Yellow idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ghost_Yellow",
+	"position": [
+		160,
+		-260
+	],
+	"healthicon": "red",
+	"flip_x": false,
+	"healthbar_colors": [
+		146,
+		17,
+		22
+	],
+	"camera_position": [
+		-320,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
